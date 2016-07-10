@@ -1,0 +1,13 @@
+﻿  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  MetricsAnalysis.cpp
+  MetricExecutive.cpp
+  FileSystem.cpp
+  SyntaxTree.cpp
+  Generating Code...
+  Parser.vcxproj -> E:\Object Oriented Design\Project2_CodeAnalyzer_RohitSharma\x64\Debug\Parser.exe

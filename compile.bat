@@ -1,0 +1,1 @@
+devenv Project2_CodeAnalyzer.sln /rebuild debug
